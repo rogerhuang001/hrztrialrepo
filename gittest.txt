@@ -1,3 +1,4 @@
 this is a git test
-try to add a new line into the test file
+modify and try to add a new line into the test file
+a 3rd line
 
